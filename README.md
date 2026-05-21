@@ -89,7 +89,7 @@ facescanner v2/
 เปิดไฟล์ `js/api-config.js` แล้วแทนที่ URL ด้วย URL ที่ได้จาก Step 1:
 
 ```javascript
-const GAS_API_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+const GAS_API_URL = '[https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec](https://ninelove990011-cloud.github.io/-GPS/)';
 ```
 
 ---
